@@ -19,7 +19,7 @@ app.get("/url", (req,res,next) => {
 
 
 app.get("/", (req, res)=>{
-    res.render("todo", { task: task, complete: complete });
+    res.render("boot-test", { task: task, complete: complete });
 });
 
 app.get("/test", (req,res) => {
