@@ -10146,18 +10146,7 @@ header.masthead h1 {
   padding-right: 45px;
 }
 
-.center-div
-{
-     margin: 0 auto;
-     width: 100px; 
-}
 
-.outer-div
-{
-     padding: 30px;
-}
-.inner-div
-{
-     margin: 0 auto;
-     width: 100px; 
+.button-width{
+  min-width: 210;
 }
